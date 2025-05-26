@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Моя визитка</title>
+</head>
+<body>
+    <h1>мүсәлім тәуекел</h1>
+    <p>Студент. Люблю кодить и пить чай.</p>
+    <p>Email: ivan@example.com</p>
+</body>
+</html>
